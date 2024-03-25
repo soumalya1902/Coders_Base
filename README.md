@@ -1,19 +1,13 @@
 # Coders Base
 An ultimate hub for finding coding resources for programmers
 
-# Soft CodeHack 2.0
+# Synapse
 
-"Soft CodeHack 2.0" is an exciting and inspiring 60 Hours Hackathon, brought to you by the PHICSIT community.
+"Synapse" is an exciting and inspiring 72 Hours Hackathon, brought to you by the IEEE Chapter of IEM.
  
-# TEAM NAME - Geeks Army
+# TEAM NAME - Hack Titans
 
-TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
-
-2nd TEAMMATE - Ashish Manna(GitHub Username -Bidyut2022 )
-
-3rd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
-
-4th TEAMMATE - Aritra Sur(GitHub Username -  AritraSur2001)
+TEAM LEADER - Soumalya Bhattacharyya(Github Username - soumalya1902)
 
 # THEME - Open Innovation
 
