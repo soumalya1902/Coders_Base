@@ -1,14 +1,6 @@
 # Coders Base
 An ultimate hub for finding coding resources for programmers
 
-# Synapse
-
-"Synapse" is an exciting and inspiring 72 Hours Hackathon, brought to you by the IEEE Chapter of IEM.
- 
-# TEAM NAME - Hack Titans
-
-TEAM LEADER - Soumalya Bhattacharyya(Github Username - soumalya1902)
-
 # THEME - Open Innovation
 
 # WEB DEVELOPMENT PROJECT - Coders Base
